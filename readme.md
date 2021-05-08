@@ -96,7 +96,7 @@ openssl pkcs12 -info -in kv-demo-abs-gencert-20210429.pfx -nocerts -nodes
 openssl pkcs12 -info -in kv-demo-abs-gencert-20210429.pfx -nokeys
 ```
 
-## Reference
+## References
 * [Azure Key Vault certificates](https://docs.microsoft.com/en-us/azure/key-vault/certificates/about-certificates)
 * [Azure Key Vault certificate - Get certificate AND private key](https://github.com/Azure/azure-sdk-for-js/issues/7647)
 * [Manage Certificates in Azure Key Vault](https://www.rahulpnath.com/blog/manage-certificates-in-azure-key-vault/)
